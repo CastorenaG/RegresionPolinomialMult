@@ -18,7 +18,7 @@ Asegúrate de tener las siguientes bibliotecas instaladas antes de ejecutar el c
 
 1. Clona o descarga este repositorio en tu máquina local.
 
-2. Ejecuta el script de Python `regresion_polinomial.py`.
+2. Ejecuta el script de Python `RegresionPM.py`.
 
 3. El script cargará los datos, realizará la regresión polinomial múltiple, calculará los coeficientes y trazará la línea de regresión.
 
